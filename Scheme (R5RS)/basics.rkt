@@ -1,4 +1,4 @@
-; R5RS is a scheme language, not very much used today but we need it for csc 335 so fuck it
+; R5RS is a scheme language, not very much used today but we need it for csc 335 so here we go
 ; What makes scheme different than other languages is that variable values do not change. Its all fixed
 ; ===================================================================================================================================================================
 ; Data types
